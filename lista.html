@@ -11,14 +11,22 @@
     <body>
 
     <div id="primaryContainer" class="primaryContainer clearfix">
-        <div id="BoxMenu" class="clearfix">
-            <a href="home.html">
-                <img id="ImageMenu" src="img/Iconmenu.png" class="image" />
-            </a>
+        <div id="BoxMenu" class="clearfix">            
+            <img id="ImageMenu" src="img/Iconmenu.png" class="image" />
+            
             <p id="text">
             SuperMarket App
             </p>
         </div>
+        
+        <div id=menuSlider>
+            <ul id=ul>
+                <a href="index.html"><li>Home</li></a>
+                <a href="calculadora.html"><li>Calculadora</li></a>
+                <li id=close>Close</li>
+            </ul>
+        </div>
+        
         <div id="BoxAll" class="clearfix">
             <label id="formgroup">
                 <p id="text1">
@@ -50,7 +58,18 @@
         });
         
         
+       
+        $('#ImageMenu').click(function() {
+            $('#menuSlider').animate({left: '65%'}, 300);            
+        });
+        
+        $('#close').click(function() {
+            $('#menuSlider').animate({left: '-65%'}, 400);            
+        });
     });
+        
+        
+  
                      
 
 

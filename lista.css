@@ -5,6 +5,29 @@
     border-bottom: 2px solid grey;
 }
 
+
+#menuSlider {
+    background-color: black;
+    color: white;
+    margin-top: 69px;
+    width: 65%;
+    height: 100%;
+    position: fixed;
+    margin-left: -65%;
+}
+
+
+#ul {
+    list-style-type: none;
+    font-size: 24px;    
+}
+
+
+li {
+    padding: 15px 15px;
+}
+
+
         
 
 
