@@ -1,0 +1,314 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(172, 199, 230);
+}
+
+#box {
+    float: left;
+    height: 68px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    background-color: rgb(0, 0, 116);
+    position: fixed;
+    top: 0px;
+    left: 0%;
+}
+
+#text {
+    float: left;
+    font-size: 28px;
+    width: 42.363636%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 13.457386%;
+    margin-top: 35px;
+    clear: none;
+    min-height: 28px;
+    background-color: rgb(0, 0, 116);
+    color: rgb(255, 255, 255);
+    letter-spacing: 0em;
+    text-transform: none;
+    font-style: italic;
+    font-family: 'Adobe Gothic Std B';
+}
+
+#ImageMenu {
+    float: left;
+    width: 24px;
+    max-width: 100%;
+    height: auto;
+    margin-left: 5.971591%;
+    margin-top: 28px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+#ImageMenu:active {
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    -webkit-box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+    box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+}
+
+#box2 {
+    float: left;
+    height: 48px;
+    margin-left: 0%;
+    margin-top: 15px;
+    clear: both;
+    width: 100%;
+    background-color: rgb(0, 0, 116);
+}
+
+#text2 {
+    float: left;
+    font-size: 20px;
+    width: 18.363636%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 17.701705%;
+    margin-top: 15px;
+    clear: none;
+    min-height: 25px;
+    color: rgb(255, 255, 255);
+    font-family: 'Adobe Gothic Std B';
+}
+
+#input {
+    float: left;
+    height: 40px;
+    font-size: 14px;
+    margin-left: 40.232955%;
+    margin-top: 4px;
+    clear: none;
+    width: 15.832386%;
+    margin-right: 0%;
+}
+
+#box1 {
+    float: left;
+    height: 733px;
+    margin-left: 2%;
+    margin-top: 107px;
+    clear: none;
+    width: 95.090909%;
+}
+
+#text1 {
+    float: left;
+    font-size: 60px;
+    width: 84.926078%;
+    height: auto;
+    text-align: left;
+    font-weight: 900;
+    line-height: 1em;
+    margin-left: 7.427859%;
+    margin-top: 129px;
+    clear: none;
+    min-height: 114px;
+    font-family: georgia;
+    color: rgb(71, 67, 67);
+}
+
+@media only screen and (max-width: 800px) {
+    .primaryContainer {
+        background-color: rgb(172, 199, 230);
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    #box {
+        float: left;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 100%;
+        background-color: rgb(0, 0, 116);
+        position: fixed;
+        top: 0px;
+        left: 0%;
+    }
+
+    #text {
+        float: left;
+        font-size: 28px;
+        width: 42.363636%;
+        height: auto;
+        text-align: left;
+        font-weight: normal;
+        line-height: 1em;
+        margin-left: 14.184659%;
+        margin-top: 35px;
+        clear: none;
+        min-height: 28px;
+        background-color: rgb(0, 0, 116);
+        color: rgb(255, 255, 255);
+        letter-spacing: 0em;
+        text-transform: none;
+        font-style: italic;
+        font-family: 'Adobe Gothic Std B';
+    }
+
+    .primaryContainer {
+        background-color: rgb(172, 199, 230);
+    }
+
+    #ImageMenu {
+        float: left;
+        max-width: 100%;
+        height: auto;
+        margin-left: 5.971591%;
+        margin-top: 28px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: 0%;
+    }
+
+    #ImageMenu:active {
+        border-top-width: 1px;
+        border-right-width: 1px;
+        border-bottom-width: 1px;
+        border-left-width: 1px;
+        border-top-style: solid;
+        border-right-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        -webkit-box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+        box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+    }
+
+    #box2 {
+        float: left;
+        height: 48px;
+        margin-left: 0%;
+        margin-top: 15px;
+        clear: both;
+        width: 100%;
+    }
+
+    #text2 {
+        float: left;
+        font-size: 20px;
+        width: 18.363636%;
+        height: auto;
+        text-align: left;
+        font-weight: normal;
+        line-height: 1em;
+        margin-left: 17.701705%;
+        margin-top: 15px;
+        clear: none;
+        min-height: 25px;
+        color: rgb(255, 255, 255);
+        font-family: 'Adobe Gothic Std B';
+    }
+
+    #input {
+        float: left;
+        height: 40px;
+        font-size: 14px;
+        margin-left: 40.232955%;
+        margin-top: 4px;
+        clear: none;
+        width: 15.832386%;
+        margin-right: 0%;
+    }
+
+    #box1 {
+        float: left;
+        height: 733px;
+        margin-left: 2%;
+        margin-top: 107px;
+        clear: none;
+        width: 95.090909%;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    #text {
+        height: auto;
+        width: 59.027778%;
+        margin-top: 27px;
+        margin-left: 12.986111%;
+        clear: none;
+    }
+
+    #ImageMenu {
+        margin-top: 31px;
+        margin-left: 6.541667%;
+        clear: none;
+    }
+}
+
+@media only screen and (max-width: 370px) {
+    #text {
+        height: auto;
+        width: 73.986486%;
+        margin-top: 19px;
+        margin-left: 10.215372%;
+        clear: none;
+    }
+
+    #ImageMenu {
+        margin-top: 23px;
+        margin-left: 6.596284%;
+        clear: none;
+    }
+
+    #text2 {
+        height: auto;
+        width: 24.037162%;
+    }
+
+    #input {
+        margin-top: 4px;
+        margin-left: 34.556588%;
+        clear: none;
+    }
+
+    #text1 {
+        float: left;
+        font-size: 60px;
+        width: 84.926078%;
+        height: auto;
+        text-align: left;
+        font-weight: 900;
+        line-height: 1em;
+        margin-left: 7.427859%;
+        margin-top: 129px;
+        clear: none;
+        min-height: 114px;
+        font-family: georgia;
+        color: rgb(71, 67, 67);
+    }
+
+    #box2 {
+        margin-top: 23px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #box1 {
+        height: 526px;
+        margin-top: 91px;
+        margin-left: 2.172256%;
+        clear: none;
+    }
+}
+

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<link rel="stylesheet" href="boilerplate.css">
+	<link rel="stylesheet" href="home.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0">
+    </head>
+    <body>
+
+    <div id="primaryContainer" class="primaryContainer clearfix">
+        <div id="BoxMenu" class="clearfix">
+            <img id="ImageMenu" src="img/Iconmenu.png" class="image" />
+            <p id="text">
+            SuperMarket App
+            </p>
+        </div>
+        <div id=menuSlider>
+            <ul id=ul>
+                <a href="home.html"><li>Home</li></a>
+                <a href="calculadora.html"><li>Calculadora</li></a>
+                <a href=""><li id=close>Close</li></a>
+            </ul>
+        </div>
+        <a href="tabela.html">
+            <input id="ButtonTabela" type="button" value="TABELA DE PRE&Ccedil;OS"></input>
+        </a>
+        <a href="lista.html">
+            <input id="ButtonLista" type="button" value="LISTA DE COMPRAS"></input>
+        </a>
+        <input id="ButtonCalculadora" type="button" value="CALCULADORA "></input>
+        <a href="como usar.html">
+            <input id="ButtonUsar" type="button" value="COMO USAR ESSE APP"></input>
+        </a>
+        <input id="ButtonSite" type="button" value="VISITE NOSSO SITE"></input>
+        <div id="BoxFooter" class="clearfix">
+            <p id="text1">
+            GassApps
+            </p>
+            <input id="ButtonHelp" type="button" value="AJUDA"></input>
+        </div>
+    </div>
+
+<script>
+    $(document).ready(function() {
+        
+        $('#ImageMenu').click(function() {
+            $('#menuSlider').animate({left: '65%'}, 300);            
+        });
+        
+        $('#close').click(function() {
+            $('#menuSlider').animate({left: '-65%'}, 300);            
+        });
+    });
+
+</script>
+
+    </body>
+</html>

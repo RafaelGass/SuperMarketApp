@@ -1,0 +1,1484 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(172, 199, 230);
+}
+
+#box {
+    float: left;
+    height: 68px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    background-color: rgb(0, 0, 116);
+    position: fixed;
+    top: 0px;
+    left: 0%;
+}
+
+#text {
+    float: left;
+    font-size: 28px;
+    width: 39.15625%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 22.298077%;
+    margin-top: 20px;
+    clear: none;
+    min-height: 28px;
+    background-color: rgb(0, 0, 116);
+    color: rgb(255, 255, 255);
+    letter-spacing: 0em;
+    text-transform: none;
+    font-style: italic;
+    font-family: 'Adobe Gothic Std B';
+}
+
+#ImageMenu {
+    float: left;
+    width: 24px;
+    max-width: 100%;
+    height: auto;
+    margin-left: 6.194444%;
+    margin-top: 24px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+#ImageMenu:active {
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    -webkit-box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+    box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+}
+
+#BoxFooter {
+    float: left;
+    height: 48px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 100%;
+    background-color: rgb(0, 0, 116);
+}
+
+#text1 {
+    float: left;
+    font-size: 20px;
+    width: 18.363636%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 17.701705%;
+    margin-top: 15px;
+    clear: none;
+    min-height: 25px;
+    color: rgb(255, 255, 255);
+    font-family: 'Adobe Gothic Std B';
+}
+
+#input {
+    float: left;
+    height: 40px;
+    font-size: 14px;
+    margin-left: 37.597222%;
+    margin-top: 4px;
+    clear: none;
+    width: 26.340278%;
+    margin-right: 0%;
+}
+
+#BoxNumbers {
+    float: left;
+    height: 792px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+}
+
+#boxResult {
+    float: left;
+    height: 72px;
+    margin-left: 0%;
+    margin-top: 68px;
+    clear: none;
+    width: 100%;
+    border-top-color: rgb(153, 153, 153);
+    border-right-color: rgb(4, 4, 4);
+    border-bottom-color: rgb(4, 4, 4);
+    border-left-color: rgb(4, 4, 4);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    margin-right: 0%;
+    background-color: rgb(33, 31, 31);
+}
+
+#Button7 {
+    float: left;
+    height: 80px;
+    font-size: 36px;
+    margin-left: 2.03125%;
+    margin-top: 32px;
+    clear: none;
+    width: 75px;
+    background-color: rgb(19, 18, 18);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+}
+
+#Button8 {
+    float: left;
+    height: 80px;
+    font-size: 36px;
+    margin-left: 1.15625%;
+    margin-top: 32px;
+    clear: none;
+    width: 75px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    background-color: rgb(19, 18, 18);
+    margin-right: 0%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+}
+
+#Button9 {
+    float: left;
+    height: 80px;
+    font-size: 36px;
+    margin-left: 1.107639%;
+    margin-top: 32px;
+    clear: none;
+    width: 75px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    background-color: rgb(19, 18, 18);
+    margin-right: 0%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+}
+
+#Button4 {
+    float: left;
+    height: 80px;
+    font-size: 36px;
+    margin-left: 1.891827%;
+    margin-top: 0px;
+    clear: both;
+    width: 75px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    background-color: rgb(19, 18, 18);
+    margin-right: 0%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+}
+
+#Button5 {
+    float: left;
+    height: 80px;
+    font-size: 36px;
+    margin-left: 1.161412%;
+    margin-top: 0px;
+    clear: none;
+    width: 75px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    margin-right: 0%;
+    background-color: rgb(19, 18, 18);
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+}
+
+#Button6 {
+    float: left;
+    height: 80px;
+    font-size: 36px;
+    margin-left: 1.107639%;
+    margin-top: 0px;
+    clear: none;
+    width: 75px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    margin-right: 0%;
+    background-color: rgb(19, 18, 18);
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+}
+
+#Button1 {
+    float: left;
+    height: 80px;
+    font-size: 36px;
+    margin-left: 1.891827%;
+    margin-top: 0px;
+    clear: both;
+    width: 75px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    background-color: rgb(19, 18, 18);
+    margin-right: 0%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+}
+
+#Button2 {
+    float: left;
+    height: 80px;
+    font-size: 36px;
+    margin-left: 1.1649%;
+    margin-top: 0px;
+    clear: none;
+    width: 75px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    margin-right: 0%;
+    background-color: rgb(19, 18, 18);
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+}
+
+#Button3 {
+    float: left;
+    height: 80px;
+    font-size: 36px;
+    margin-left: 1.109096%;
+    margin-top: 0px;
+    clear: none;
+    width: 75px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    margin-right: 0%;
+    background-color: rgb(19, 18, 18);
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+}
+
+#Button0 {
+    float: left;
+    height: 55px;
+    font-size: 40px;
+    margin-left: 1.891827%;
+    margin-top: 7px;
+    clear: both;
+    width: 75px;
+    background-color: rgb(19, 18, 18);
+    border-top-color: rgb(19, 18, 18);
+    border-right-color: rgb(19, 18, 18);
+    border-bottom-color: rgb(19, 18, 18);
+    border-left-color: rgb(19, 18, 18);
+    color: rgb(255, 255, 255);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+#Button_1 {
+    float: left;
+    height: 55px;
+    font-size: 36px;
+    margin-left: 1.154436%;
+    margin-top: 7px;
+    clear: none;
+    width: 75px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    margin-right: 0%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    background-color: rgb(19, 18, 18);
+}
+
+#Button_2 {
+    float: left;
+    height: 55px;
+    font-size: 36px;
+    margin-left: 1.245117%;
+    margin-top: 7px;
+    clear: none;
+    width: 75px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    margin-right: 0%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    background-color: rgb(248, 124, 0);
+}
+
+#Button_ {
+    float: left;
+    height: 76px;
+    font-size: 40px;
+    margin-left: 34.884615%;
+    margin-top: -240px;
+    clear: none;
+    width: 109.015625px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    margin-right: 0%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    background-color: rgb(248, 124, 0);
+}
+
+#Button- {
+    float: left;
+    height: 76px;
+    font-size: 50px;
+    margin-left: 34.879808%;
+    margin-top: -160px;
+    clear: none;
+    width: 109.015625px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    margin-right: 0%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    background-color: rgb(248, 124, 0);
+}
+
+#ButtonX {
+    float: left;
+    height: 76px;
+    font-size: 30px;
+    margin-left: 35.009615%;
+    margin-top: 1px;
+    clear: none;
+    width: 109.015625px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    margin-right: 0%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    background-color: rgb(248, 124, 0);
+}
+
+#Button_3 {
+    float: left;
+    height: 60px;
+    font-size: 36px;
+    margin-left: 34.754808%;
+    margin-top: -78px;
+    clear: none;
+    width: 109.015625px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    margin-right: 0%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    background-color: rgb(248, 124, 0);
+}
+
+#ButtonApagar {
+    float: left;
+    height: 61px;
+    font-size: 35px;
+    margin-left: 5.427885%;
+    margin-top: 200px;
+    clear: both;
+    width: 52.015625px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    display: block;
+    margin-right: 0%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    background-color: rgb(193, 0, 0);
+}
+
+@media only screen and (max-width: 605px) {
+    .primaryContainer {
+        background-color: rgb(172, 199, 230);
+    }
+
+    #text {
+        height: auto;
+        width: 39.15625%;
+        margin-top: 20px;
+        margin-left: 22.298077%;
+        clear: none;
+    }
+
+    #BoxFooter {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #BoxNumbers {
+        height: 813px;
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: both;
+        background-color: rgb(42, 42, 42);
+    }
+
+    #Button4 {
+        margin-top: 9px;
+        margin-left: 1.893079%;
+        clear: both;
+        width: 130px;
+        height: 100px;
+        font-size: 55px;
+    }
+
+    #Button1 {
+        margin-top: 9px;
+        margin-left: 1.849174%;
+        clear: both;
+        width: 130px;
+        height: 100px;
+        font-size: 55px;
+    }
+
+    #Button0 {
+        margin-top: 11px;
+        margin-left: 1.645145%;
+        clear: both;
+        width: 130px;
+        height: 100px;
+        font-size: 55px;
+    }
+
+    #ButtonApagar {
+        margin-top: 13px;
+        margin-left: 1.645145%;
+        clear: both;
+        width: 403.03125px;
+        height: 74px;
+        font-size: 45px;
+    }
+
+    #Button_ {
+        margin-top: 9px;
+        margin-right: 0%;
+        margin-left: 1.743285%;
+        clear: none;
+        width: 160px;
+        height: 98px;
+    }
+
+    #Button- {
+        margin-top: 56px;
+        margin-right: 0%;
+        margin-left: 1.753616%;
+        clear: none;
+        width: 160px;
+        height: 98px;
+    }
+
+    #Button_3 {
+        margin-top: 11px;
+        margin-right: 0%;
+        margin-left: 1.862087%;
+        clear: none;
+        width: 160px;
+        height: 98px;
+    }
+
+    #ButtonX {
+        margin-top: 9px;
+        margin-left: 1.782025%;
+        clear: none;
+        width: 160px;
+        height: 98px;
+        margin-right: 0%;
+    }
+
+    #boxResult {
+        height: 180px;
+        border-top-width: 3px;
+        border-bottom-width: 3px;
+        border-bottom-color: rgb(153, 153, 153);
+    }
+
+    #Button7 {
+        width: 130px;
+        height: 100px;
+        font-size: 55px;
+        margin-top: 54px;
+        margin-left: 1.893079%;
+        clear: none;
+    }
+
+    #Button8 {
+        width: 130px;
+        height: 100px;
+        font-size: 55px;
+        margin-top: 54px;
+        margin-left: 1.157025%;
+        clear: none;
+    }
+
+    #Button9 {
+        width: 130px;
+        height: 100px;
+        font-size: 55px;
+        margin-top: 54px;
+        margin-left: 1.105372%;
+        clear: none;
+    }
+
+    #Button6 {
+        width: 130px;
+        height: 100px;
+        font-size: 55px;
+        margin-top: 9px;
+        margin-left: 1.107955%;
+        clear: none;
+    }
+
+    #Button5 {
+        width: 130px;
+        height: 100px;
+        font-size: 55px;
+        margin-top: 9px;
+        margin-left: 1.164773%;
+        clear: none;
+    }
+
+    #Button2 {
+        width: 130px;
+        height: 100px;
+        font-size: 55px;
+        margin-top: 9px;
+        margin-left: 1.164773%;
+        clear: none;
+    }
+
+    #Button3 {
+        width: 130px;
+        height: 100px;
+        font-size: 55px;
+        margin-top: 9px;
+        margin-left: 1.11312%;
+        clear: none;
+    }
+
+    #Button_2 {
+        width: 130px;
+        height: 100px;
+        font-size: 55px;
+        margin-top: 11px;
+        margin-left: 1.247417%;
+        clear: none;
+    }
+
+    #Button_1 {
+        width: 130px;
+        height: 100px;
+        font-size: 55px;
+        margin-top: 11px;
+        margin-left: 1.159607%;
+        clear: none;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    #box {
+        float: left;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 100%;
+        background-color: rgb(0, 0, 116);
+        position: fixed;
+        top: 0px;
+        left: 0%;
+    }
+
+    #text {
+        float: left;
+        font-size: 28px;
+        width: 42.363636%;
+        height: auto;
+        text-align: left;
+        font-weight: normal;
+        line-height: 1em;
+        margin-left: 47.301136%;
+        margin-top: 28px;
+        clear: none;
+        min-height: 28px;
+        background-color: rgb(0, 0, 116);
+        color: rgb(255, 255, 255);
+        letter-spacing: 0em;
+        text-transform: none;
+        font-style: italic;
+        font-family: 'Adobe Gothic Std B';
+    }
+
+    .primaryContainer {
+        background-color: rgb(172, 199, 230);
+    }
+
+    #ImageMenu {
+        float: left;
+        max-width: 100%;
+        height: auto;
+        margin-left: 5.971591%;
+        margin-top: 28px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: 0%;
+    }
+
+    #ImageMenu:active {
+        border-top-width: 1px;
+        border-right-width: 1px;
+        border-bottom-width: 1px;
+        border-left-width: 1px;
+        border-top-style: solid;
+        border-right-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        -webkit-box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+        box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+    }
+
+    #BoxFooter {
+        float: left;
+        height: 48px;
+        margin-left: 0%;
+        margin-top: 15px;
+        clear: both;
+        width: 100%;
+    }
+
+    #text1 {
+        float: left;
+        font-size: 20px;
+        width: 18.363636%;
+        height: auto;
+        text-align: left;
+        font-weight: normal;
+        line-height: 1em;
+        margin-left: 17.701705%;
+        margin-top: 15px;
+        clear: none;
+        min-height: 25px;
+        color: rgb(255, 255, 255);
+        font-family: 'Adobe Gothic Std B';
+    }
+
+    #input {
+        float: left;
+        height: 40px;
+        font-size: 14px;
+        margin-left: 40.232955%;
+        margin-top: 4px;
+        clear: none;
+        width: 15.832386%;
+        margin-right: 0%;
+    }
+
+    #BoxNumbers {
+        float: left;
+        height: 733px;
+        margin-left: 2%;
+        margin-top: 107px;
+        clear: none;
+        width: 95.090909%;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    #text {
+        height: auto;
+        width: 68.361111%;
+        margin-top: 20px;
+        margin-left: 13.430556%;
+        clear: none;
+        font-family: 'Adobe Gothic Std B';
+    }
+
+    #ImageMenu {
+        margin-top: 24px;
+        margin-left: 6.194444%;
+        clear: none;
+    }
+
+    #BoxFooter {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #BoxNumbers {
+        height: 428px;
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: none;
+        width: 100%;
+        background-color: rgb(0, 0, 0);
+    }
+
+    #input {
+        width: 26.340278%;
+        margin-top: 4px;
+        margin-left: 30.071791%;
+        clear: none;
+    }
+
+    #boxResult {
+        float: left;
+        height: 72px;
+        margin-left: 0%;
+        margin-top: 68px;
+        clear: none;
+        width: 100%;
+        border-top-style: solid;
+        border-right-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        border-image-source: initial;
+        border-image-slice: initial;
+        border-image-width: initial;
+        border-image-outset: initial;
+        border-image-repeat: initial;
+        margin-right: 0%;
+    }
+
+    #Button7 {
+        float: left;
+        font-size: 36px;
+        margin-left: 2.03125%;
+        margin-top: 32px;
+        clear: none;
+        width: 75px;
+        background-color: rgb(19, 18, 18);
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        height: 80px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+        -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+        box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    }
+
+    #Button8 {
+        float: left;
+        font-size: 36px;
+        margin-left: 1.15625%;
+        margin-top: 32px;
+        clear: none;
+        width: 75px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        background-color: rgb(19, 18, 18);
+        margin-right: 0%;
+        height: 80px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+        -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+        box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    }
+
+    #Button9 {
+        float: left;
+        font-size: 36px;
+        margin-left: 1.107639%;
+        margin-top: 32px;
+        clear: none;
+        width: 75px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        background-color: rgb(19, 18, 18);
+        margin-right: 0%;
+        height: 80px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+        -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+        box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    }
+
+    #Button4 {
+        float: left;
+        font-size: 36px;
+        margin-left: 1.892361%;
+        margin-top: 0px;
+        clear: both;
+        width: 75px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        background-color: rgb(19, 18, 18);
+        margin-right: 0%;
+        height: 80px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+        -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+        box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    }
+
+    #Button5 {
+        float: left;
+        font-size: 36px;
+        margin-left: 1.161412%;
+        margin-top: 0px;
+        clear: none;
+        width: 75px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        margin-right: 0%;
+        background-color: rgb(19, 18, 18);
+        height: 80px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+        -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+        box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    }
+
+    #Button6 {
+        float: left;
+        font-size: 36px;
+        margin-left: 1.107639%;
+        margin-top: 0px;
+        clear: none;
+        width: 75px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        margin-right: 0%;
+        background-color: rgb(19, 18, 18);
+        height: 80px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+        -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+        box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    }
+
+    #Button1 {
+        float: left;
+        font-size: 36px;
+        margin-left: 1.892361%;
+        margin-top: 0px;
+        clear: both;
+        width: 75px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        background-color: rgb(19, 18, 18);
+        margin-right: 0%;
+        height: 80px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+        -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+        box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    }
+
+    #Button2 {
+        float: left;
+        font-size: 36px;
+        margin-left: 1.1649%;
+        margin-top: 0px;
+        clear: none;
+        width: 75px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        margin-right: 0%;
+        background-color: rgb(19, 18, 18);
+        height: 80px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+        -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+        box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    }
+
+    #Button3 {
+        float: left;
+        font-size: 36px;
+        margin-left: 1.109096%;
+        margin-top: 0px;
+        clear: none;
+        width: 75px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        margin-right: 0%;
+        background-color: rgb(19, 18, 18);
+        height: 80px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+        -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+        box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+    }
+
+    .primaryContainer {
+        position: relative;
+    }
+
+    #Button0 {
+        float: left;
+        height: 55px;
+        font-size: 40px;
+        margin-left: 1.892361%;
+        margin-top: 7px;
+        clear: both;
+        width: 75px;
+        background-color: rgb(19, 18, 18);
+        border-top-color: rgb(19, 18, 18);
+        border-right-color: rgb(19, 18, 18);
+        border-bottom-color: rgb(19, 18, 18);
+        border-left-color: rgb(19, 18, 18);
+        color: rgb(255, 255, 255);
+        -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+        box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+
+    #Button_1 {
+        float: left;
+        font-size: 36px;
+        margin-left: 1.154436%;
+        margin-top: 7px;
+        clear: none;
+        width: 75px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        margin-right: 0%;
+        height: 55px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+        -webkit-box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+        box-shadow: rgb(102, 100, 100) 0px 1px 3px 0px inset;
+        background-color: rgb(19, 18, 18);
+    }
+
+    #Button_2 {
+        float: left;
+        font-size: 36px;
+        margin-left: 1.245117%;
+        margin-top: 7px;
+        clear: none;
+        width: 75px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        margin-right: 0%;
+        height: 55px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+    }
+
+    #Button_ {
+        float: left;
+        margin-left: 2.475694%;
+        margin-top: 32px;
+        clear: none;
+        width: 109.015625px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        margin-right: 0%;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+    }
+
+    #Button- {
+        float: left;
+        margin-left: 2.475694%;
+        margin-top: 32px;
+        clear: none;
+        width: 109.015625px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        margin-right: 0%;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+    }
+
+    #ButtonX {
+        float: left;
+        margin-left: 2.475694%;
+        margin-top: 32px;
+        clear: none;
+        width: 109.015625px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        margin-right: 0%;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+    }
+
+    #Button_3 {
+        float: left;
+        margin-left: 2.46875%;
+        margin-top: 20px;
+        clear: none;
+        width: 109.015625px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        margin-right: 0%;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+    }
+
+    #ButtonApagar {
+        float: left;
+        margin-left: 81.697443%;
+        margin-top: 2px;
+        clear: none;
+        width: 77px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        display: block;
+        margin-right: 0%;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-color: rgb(0, 0, 0);
+        border-right-color: rgb(0, 0, 0);
+        border-bottom-color: rgb(0, 0, 0);
+        border-left-color: rgb(0, 0, 0);
+    }
+
+    #text1 {
+        height: auto;
+        width: 25.886824%;
+    }
+}
+
+@media only screen and (max-width: 369px) {
+    #Button_ {
+        height: 75px;
+        margin-top: 29px;
+        margin-left: 2.269648%;
+        clear: none;
+        margin-right: 0%;
+    }
+
+    #Button- {
+        margin-top: -6px;
+        margin-right: 0%;
+        margin-left: 2.544885%;
+        clear: none;
+        height: 75px;
+    }
+
+    #Button4 {
+        margin-top: 0px;
+        margin-left: 1.884316%;
+        clear: both;
+        background-color: rgb(19, 18, 18);
+    }
+
+    #Button1 {
+        margin-top: 0px;
+        margin-left: 1.884316%;
+        clear: both;
+        background-color: rgb(19, 18, 18);
+    }
+
+    #Button0 {
+        margin-top: 7px;
+        margin-left: 1.884316%;
+        clear: both;
+        background-color: rgb(19, 18, 18);
+    }
+
+    #BoxFooter {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #ButtonX {
+        margin-top: -9px;
+        margin-right: 0%;
+        margin-left: 2.544885%;
+        clear: none;
+        height: 75px;
+    }
+
+    #Button_3 {
+        margin-top: -13px;
+        margin-right: 0%;
+        margin-left: 2.278117%;
+        clear: none;
+        font-size: 36px;
+        height: 75px;
+    }
+
+    #Button2 {
+        margin-top: 0px;
+        margin-left: 1.168699%;
+        clear: none;
+        background-color: rgb(19, 18, 18);
+    }
+
+    #Button3 {
+        margin-top: 0px;
+        margin-left: 1.113652%;
+        clear: none;
+        background-color: rgb(19, 18, 18);
+    }
+
+    #Button5 {
+        margin-top: 0px;
+        margin-left: 1.164465%;
+        clear: none;
+        background-color: rgb(19, 18, 18);
+    }
+
+    #Button6 {
+        margin-top: 0px;
+        margin-left: 1.110087%;
+        clear: none;
+        background-color: rgb(19, 18, 18);
+    }
+
+    #ButtonApagar {
+        height: 53px;
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: none;
+        margin-right: 0px;
+        width: 232.859375px;
+        font-size: 30px;
+        background-color: rgb(193, 0, 0);
+        position: absolute;
+        top: 495px;
+        left: 7.828125px;
+        color: rgb(236, 232, 232);
+    }
+
+    #Button_1 {
+        margin-top: 7px;
+        margin-left: 1.155996%;
+        clear: none;
+        background-color: rgb(19, 18, 18);
+    }
+
+    #boxResult {
+        margin-top: 68px;
+        margin-left: 0%;
+        clear: none;
+        width: 99.991531%;
+    }
+
+    #BoxNumbers {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: both;
+        border-top-color: rgb(115, 113, 113);
+        border-top-width: 1px;
+        border-top-style: solid;
+        height: 496px;
+    }
+
+    #Button7 {
+        background-color: rgb(19, 18, 18);
+    }
+
+    #Button9 {
+        background-color: rgb(19, 18, 18);
+    }
+
+    #Button8 {
+        background-color: rgb(19, 18, 18);
+    }
+}
+

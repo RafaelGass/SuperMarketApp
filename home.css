@@ -1,0 +1,516 @@
+#menuSlider {
+    background-color: black;
+    color: white;
+    margin-top: 91px;
+    width: 65%;
+    height: 100%;
+    position: fixed;
+    margin-left: -65%;
+}
+
+
+#ul {
+    list-style-type: none;
+    font-size: 24px;    
+}
+
+
+li {
+    padding: 15px 15px;
+}
+
+
+
+
+
+
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(172, 199, 230);
+}
+
+#BoxMenu {
+    float: left;
+    height: 91px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    background-color: rgb(0, 0, 116);
+    position: fixed;
+    top: 0px;
+    left: 0%;
+}
+
+#text {
+    float: left;
+    font-size: 28px;
+    width: 29.113281%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 13.457386%;
+    margin-top: 35px;
+    clear: none;
+    min-height: 28px;
+    background-color: rgb(0, 0, 116);
+    color: rgb(255, 255, 255);
+    letter-spacing: 0em;
+    text-transform: none;
+    font-style: italic;
+    font-family: 'Adobe Gothic Std B';
+}
+
+#ImageMenu {
+    float: left;
+    width: 24px;
+    max-width: 100%;
+    height: auto;
+    margin-left: 5.971591%;
+    margin-top: 28px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+#ImageMenu:active {
+    border-width: 1px;
+    border-style: solid;
+    -webkit-box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+    box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+}
+
+#BoxFooter {
+    float: left;
+    height: 48px;
+    margin-left: 0%;
+    margin-top: 224px;
+    clear: both;
+    width: 100%;
+    background-color: rgb(0, 0, 116);
+    position: static;
+}
+
+#text1 {
+    float: left;
+    font-size: 20px;
+    width: 18.363636%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 17.701705%;
+    margin-top: 15px;
+    clear: none;
+    min-height: 25px;
+    color: rgb(255, 255, 255);
+    font-family: 'Adobe Gothic Std B';
+}
+
+#ButtonHelp {
+    float: left;
+    height: 40px;
+    font-size: 14px;
+    margin-left: 40.232955%;
+    margin-top: 4px;
+    clear: none;
+    width: 11.272727%;
+    margin-right: 0%;
+}
+
+#ButtonTabela {
+    float: left;
+    height: 45px;
+    font-size: 1em;
+    margin-left: 8.035714%;
+    margin-top: 120px;
+    clear: none;
+    width: 82.8125%;
+    display: block;
+    background-color: rgb(229, 233, 232);
+    font-weight: 500;
+    text-decoration: none;
+    font-style: italic;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+#ButtonLista {
+    float: left;
+    height: 45px;
+    font-size: 1em;
+    margin-left: 8.035714%;
+    margin-top: 25px;
+    clear: both;
+    width: 82.8125%;
+    display: block;
+    margin-right: 0%;
+    font-weight: 500;
+    font-style: italic;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+#ButtonCalculadora {
+    float: left;
+    height: 45px;
+    font-size: 1em;
+    margin-left: 8.035714%;
+    margin-top: 24px;
+    clear: both;
+    width: 82.8125%;
+    display: block;
+    margin-right: 0%;
+    font-style: italic;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+#ButtonUsar {
+    float: left;
+    height: 45px;
+    font-size: 1em;
+    margin-left: 8.035714%;
+    margin-top: 27.5px;
+    clear: both;
+    width: 82.8125%;
+    display: block;
+    margin-right: 0%;
+    font-style: italic;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+#ButtonSite {
+    float: left;
+    height: 45px;
+    font-size: 1em;
+    margin-left: 8.035714%;
+    margin-top: 21.5px;
+    clear: both;
+    width: 82.8125%;
+    display: block;
+    margin-right: 0%;
+    font-style: italic;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+@media only screen and (max-width: 650px) {
+    .primaryContainer {
+        background-color: rgb(172, 199, 230);
+    }
+
+    #text {
+        margin-top: 34px;
+        margin-left: 18.764423%;
+        clear: none;
+        height: auto;
+        width: 41.702316%;
+        font-size: 32px;
+    }
+
+    #ImageMenu {
+        height: 34px;
+        width: 34px;
+        margin-top: 34px;
+        margin-left: 5.971154%;
+        clear: none;
+    }
+
+    #ButtonTabela {
+        margin-top: 164px;
+        margin-left: 8.442308%;
+        clear: none;
+        height: 65px;
+        font-size: 23px;
+    }
+
+    #ButtonLista {
+        margin-top: 40px;
+        margin-left: 8.442308%;
+        clear: both;
+        height: 65px;
+        font-size: 23px;
+    }
+
+    #ButtonCalculadora {
+        margin-top: 40px;
+        margin-left: 8.442308%;
+        clear: both;
+        height: 65px;
+        font-size: 23px;
+    }
+
+    #ButtonUsar {
+        margin-top: 40.5px;
+        margin-left: 8.442308%;
+        clear: both;
+        height: 65px;
+        font-size: 23px;
+    }
+
+    #ButtonSite {
+        margin-top: 40.5px;
+        margin-left: 8.442308%;
+        clear: both;
+        height: 65px;
+        font-size: 23px;
+    }
+
+    #BoxFooter {
+        margin-top: 239px;
+        margin-left: 0px;
+        clear: both;
+        width: 100%;
+    }
+
+    #BoxMenu {
+        top: 0px;
+        left: 0%;
+    }
+
+    #text1 {
+        width: 18.362981%;
+    }
+
+    #ButtonHelp {
+        width: 22.502404%;
+        height: 40px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    #BoxMenu {
+        float: left;
+        height: 91px;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 100%;
+        background-color: rgb(0, 0, 116);
+        position: fixed;
+        top: 0px;
+        left: 0%;
+    }
+
+    #text {
+        float: left;
+        font-size: 28px;
+        width: 52.545455%;
+        height: auto;
+        text-align: left;
+        font-weight: normal;
+        line-height: 1em;
+        margin-left: 14.184659%;
+        margin-top: 35px;
+        clear: none;
+        min-height: 28px;
+        background-color: rgb(0, 0, 116);
+        color: rgb(255, 255, 255);
+        letter-spacing: 0em;
+        text-transform: none;
+        font-style: italic;
+        font-family: 'Adobe Gothic Std B';
+    }
+
+    .primaryContainer {
+        background-color: rgb(172, 199, 230);
+    }
+
+    #ImageMenu {
+        float: left;
+        max-width: 100%;
+        height: auto;
+        margin-left: 5.971591%;
+        margin-top: 28px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: 0%;
+    }
+
+    #ImageMenu:active {
+        border-width: 1px;
+        border-style: solid;
+        -webkit-box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+        box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+    }
+
+    #BoxFooter {
+        float: left;
+        height: 48px;
+        margin-left: 0%;
+        margin-top: 224px;
+        clear: both;
+        width: 100%;
+    }
+
+    #text1 {
+        float: left;
+        font-size: 20px;
+        width: 18.363636%;
+        height: auto;
+        text-align: left;
+        font-weight: normal;
+        line-height: 1em;
+        margin-left: 17.701705%;
+        margin-top: 15px;
+        clear: none;
+        min-height: 25px;
+        color: rgb(255, 255, 255);
+        font-family: 'Adobe Gothic Std B';
+    }
+
+    #ButtonHelp {
+        float: left;
+        height: 40px;
+        font-size: 14px;
+        margin-left: 40.232955%;
+        margin-top: 4px;
+        clear: none;
+        width: 11.272727%;
+        margin-right: 0%;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    #text {
+        height: auto;
+        width: 66.135417%;
+        margin-top: 21px;
+        margin-left: 11.201389%;
+        clear: none;
+    }
+
+    #ImageMenu {
+        margin-top: 21px;
+        margin-left: 6.1875%;
+        clear: none;
+    }
+
+    #ButtonHelp {
+        width: 16.545759%;
+        margin-top: 4px;
+        margin-left: 35.121528%;
+        clear: none;
+    }
+
+    #BoxFooter {
+        margin-top: 124px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #BoxMenu {
+        height: 68px;
+    }
+
+    #ButtonTabela {
+        float: left;
+        height: 45px;
+        font-size: 1em;
+        margin-left: 8.035714%;
+        margin-top: 120px;
+        clear: none;
+        width: 82.8125%;
+        display: block;
+        background-color: rgb(229, 233, 232);
+        font-weight: 500;
+        text-decoration: none;
+        font-style: italic;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+    }
+
+    #ButtonLista {
+        float: left;
+        height: 45px;
+        font-size: 1em;
+        margin-left: 8.035714%;
+        margin-top: 25px;
+        clear: both;
+        width: 82.8125%;
+        display: block;
+        margin-right: 0%;
+        font-weight: 500;
+        font-style: italic;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+    }
+
+    #ButtonCalculadora {
+        float: left;
+        height: 45px;
+        font-size: 1em;
+        margin-left: 8.035714%;
+        margin-top: 24px;
+        clear: both;
+        width: 82.8125%;
+        display: block;
+        margin-right: 0%;
+        font-style: italic;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+    }
+
+    #ButtonUsar {
+        float: left;
+        height: 45px;
+        font-size: 1em;
+        margin-left: 8.035714%;
+        margin-top: 27.5px;
+        clear: both;
+        width: 82.8125%;
+        display: block;
+        margin-right: 0%;
+        font-style: italic;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+    }
+
+    #ButtonSite {
+        float: left;
+        height: 45px;
+        font-size: 1em;
+        margin-left: 8.035714%;
+        margin-top: 21.5px;
+        clear: both;
+        width: 82.8125%;
+        display: block;
+        margin-right: 0%;
+        font-style: italic;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+    }
+
+    #text1 {
+        height: auto;
+        width: 23.472222%;
+    }
+}
+

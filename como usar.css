@@ -1,0 +1,364 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(172, 199, 230);
+}
+
+#BoxMenu {
+    float: left;
+    height: 91px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    background-color: rgb(0, 0, 116);
+    position: fixed;
+    top: 0px;
+    left: 0%;
+}
+
+#text {
+    float: left;
+    font-size: 28px;
+    width: 29.113281%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 17.841346%;
+    margin-top: 31px;
+    clear: none;
+    min-height: 28px;
+    background-color: rgb(0, 0, 116);
+    color: rgb(255, 255, 255);
+    letter-spacing: 0em;
+    text-transform: none;
+    font-style: italic;
+    font-family: 'Adobe Gothic Std B';
+}
+
+#ImageMenu {
+    float: left;
+    width: 34px;
+    max-width: 100%;
+    height: 34px;
+    margin-left: 5.971154%;
+    margin-top: 30px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+#ImageMenu:active {
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    -webkit-box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+    box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+}
+
+#BoxFooter {
+    float: left;
+    height: 48px;
+    margin-left: 0px;
+    margin-top: 566px;
+    clear: both;
+    width: 100%;
+    background-color: rgb(0, 0, 116);
+    position: static;
+}
+
+#text3 {
+    float: left;
+    font-size: 20px;
+    width: 18.363636%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 17.701705%;
+    margin-top: 15px;
+    clear: none;
+    min-height: 25px;
+    color: rgb(255, 255, 255);
+    font-family: 'Adobe Gothic Std B';
+}
+
+#ButtonHelp {
+    float: left;
+    height: 40px;
+    font-size: 14px;
+    margin-left: 40.232955%;
+    margin-top: 4px;
+    clear: none;
+    width: 11.272727%;
+    margin-right: 0%;
+}
+
+#text1 {
+    float: left;
+    font-size: 25px;
+    width: 69.800136%;
+    height: auto;
+    text-align: left;
+    font-weight: 900;
+    line-height: 1em;
+    margin-left: 2.449519%;
+    margin-top: 138px;
+    clear: none;
+    min-height: 26px;
+    color: rgb(56, 55, 55);
+}
+
+#text2 {
+    float: left;
+    font-size: 1em;
+    width: 93.34773%;
+    height: auto;
+    text-align: justify;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 2.449519%;
+    margin-top: 21px;
+    clear: both;
+    min-height: 137px;
+}
+
+@media only screen and (max-width: 650px) {
+    .primaryContainer {
+        background-color: rgb(172, 199, 230);
+    }
+
+    #text {
+        margin-top: 31px;
+        margin-left: 17.841346%;
+        clear: none;
+        height: auto;
+        width: 41.702316%;
+        font-size: 32px;
+    }
+
+    #ImageMenu {
+        height: 34px;
+        width: 34px;
+        margin-top: 30px;
+        margin-left: 5.971154%;
+        clear: none;
+    }
+
+    #BoxFooter {
+        margin-top: 566px;
+        margin-left: 0px;
+        clear: both;
+        width: 100%;
+    }
+
+    #BoxMenu {
+        top: 0px;
+        left: 0%;
+    }
+
+    #text3 {
+        width: 18.362981%;
+    }
+
+    #ButtonHelp {
+        width: 11.271635%;
+        height: 40px;
+    }
+
+    #text2 {
+        margin-top: 21px;
+        margin-left: 2.449519%;
+        clear: both;
+    }
+
+    #text1 {
+        margin-top: 138px;
+        margin-left: 2.449519%;
+        clear: none;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    #BoxMenu {
+        float: left;
+        height: 91px;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 100%;
+        background-color: rgb(0, 0, 116);
+        position: fixed;
+        top: 0px;
+        left: 0%;
+    }
+
+    #text {
+        float: left;
+        font-size: 28px;
+        width: 52.545455%;
+        height: auto;
+        text-align: left;
+        font-weight: normal;
+        line-height: 1em;
+        margin-left: 14.184659%;
+        margin-top: 35px;
+        clear: none;
+        min-height: 28px;
+        background-color: rgb(0, 0, 116);
+        color: rgb(255, 255, 255);
+        letter-spacing: 0em;
+        text-transform: none;
+        font-style: italic;
+        font-family: 'Adobe Gothic Std B';
+    }
+
+    .primaryContainer {
+        background-color: rgb(172, 199, 230);
+    }
+
+    #ImageMenu {
+        float: left;
+        max-width: 100%;
+        height: auto;
+        margin-left: 5.971591%;
+        margin-top: 28px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: 0%;
+    }
+
+    #ImageMenu:active {
+        border-top-width: 1px;
+        border-right-width: 1px;
+        border-bottom-width: 1px;
+        border-left-width: 1px;
+        border-top-style: solid;
+        border-right-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        -webkit-box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+        box-shadow: rgb(244, 244, 244) 0px 3px 6px 0px;
+    }
+
+    #BoxFooter {
+        float: left;
+        height: 48px;
+        margin-left: 0%;
+        margin-top: 224px;
+        clear: both;
+        width: 100%;
+    }
+
+    #text3 {
+        float: left;
+        font-size: 20px;
+        width: 18.363636%;
+        height: auto;
+        text-align: left;
+        font-weight: normal;
+        line-height: 1em;
+        margin-left: 17.701705%;
+        margin-top: 15px;
+        clear: none;
+        min-height: 25px;
+        color: rgb(255, 255, 255);
+        font-family: 'Adobe Gothic Std B';
+    }
+
+    #ButtonHelp {
+        float: left;
+        height: 40px;
+        font-size: 14px;
+        margin-left: 40.232955%;
+        margin-top: 4px;
+        clear: none;
+        width: 11.272727%;
+        margin-right: 0%;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    #text {
+        height: auto;
+        width: 66.135417%;
+        margin-top: 21px;
+        margin-left: 11.201389%;
+        clear: none;
+    }
+
+    #ImageMenu {
+        margin-top: 21px;
+        margin-left: 6.1875%;
+        clear: none;
+    }
+
+    #ButtonHelp {
+        width: 16.545759%;
+        margin-top: 4px;
+        margin-left: 35.121528%;
+        clear: none;
+    }
+
+    #BoxFooter {
+        margin-top: 327px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #BoxMenu {
+        height: 68px;
+    }
+
+    #text3 {
+        height: auto;
+        width: 23.472222%;
+    }
+
+    #text1 {
+        float: left;
+        font-size: 25px;
+        width: 69.800136%;
+        height: auto;
+        text-align: left;
+        font-weight: 900;
+        line-height: 1em;
+        margin-left: 17.301829%;
+        margin-top: 106px;
+        clear: none;
+        min-height: 26px;
+        color: rgb(56, 55, 55);
+    }
+
+    #text2 {
+        float: left;
+        font-size: 1em;
+        width: 93.34773%;
+        height: auto;
+        text-align: justify;
+        font-weight: normal;
+        line-height: 1em;
+        margin-left: 2.388211%;
+        margin-top: 21px;
+        clear: both;
+        min-height: 137px;
+    }
+
+    #textspan {
+        float: none;
+        font-size: 1em;
+        line-height: 1em;
+        font-weight: 700;
+        font-family: helvetica;
+    }
+}
+

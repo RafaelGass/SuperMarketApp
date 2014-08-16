@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<link rel="stylesheet" href="boilerplate.css">
+	<link rel="stylesheet" href="lista.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0">
+    </head>
+    <body>
+
+    <div id="primaryContainer" class="primaryContainer clearfix">
+        <div id="BoxMenu" class="clearfix">
+            <a href="home.html">
+                <img id="ImageMenu" src="img/Iconmenu.png" class="image" />
+            </a>
+            <p id="text">
+            SuperMarket App
+            </p>
+        </div>
+        <div id="BoxAll" class="clearfix">
+            <label id="formgroup">
+                <p id="text1">
+                Nome do Produto&#x3a;
+                </p>
+                <input id="textItem" name="TextItem" type="text" value=""></input>
+            </label>
+            <input id="ButtonAdd" type="button" value="Add produto"></input>
+            <div id="BoxPrint" class="clearfix">
+            </div>
+        </div>
+        <div id="BoxFooter" class="clearfix">
+            <p id="text2">
+            GassApps
+            </p>
+            <input id="ButtonHelp" type="button" value="AJUDA"></input>
+        </div>
+    </div>
+
+<script>
+    $(document).ready(function() {
+        $('#ButtonAdd').click(function() {
+            var item = $('input[name=TextItem]').val();
+            $('#BoxPrint').append('<div id=listDiv><input type="checkbox" id=check/>' + item + '</div>');
+        });
+        
+        $(document).on('dblclick', '#listDiv', function() {        
+            $(this).remove();
+        });
+        
+        
+    });
+                     
+
+
+</script>
+    </body>
+</html>
